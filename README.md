@@ -1,4 +1,5 @@
 # Python & Data Engineering Assessment - Feature Branch
+# Python & Data Engineering Assessment - Main Branch
 
 ## Project Overview
 This project contains Python programming, file handling, API integration, data analysis, and Git workflow tasks.
@@ -10,7 +11,7 @@ This project contains Python programming, file handling, API integration, data a
 - `src/` – Python source code.
 
 ## Requirements
-- Python 3
+- Python 
 - NumPy
 - Pandas
 - Matplotlib
